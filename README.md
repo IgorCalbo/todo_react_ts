@@ -8,12 +8,9 @@ Editar tarefas existentes
 
 Excluir tarefas
 
-## Tecnologias
-TypeScript
+## Vizualizar no Github Pages
+https://igorcalbo.github.io/todo_react_ts/
 
-React
-
-CSS Modules
 
 
 To learn React, check out the [React documentation](https://reactjs.org/).
