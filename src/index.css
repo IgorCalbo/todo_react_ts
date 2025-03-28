@@ -4,6 +4,10 @@
   font-family: Helvetica, sans-serif;
 }
 
+html {
+  zoom: 125%;
+}
+
 .hide {
   display: none !important;
 }
